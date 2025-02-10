@@ -6,8 +6,7 @@ The **Cold Email Generator Tool** is an AI-powered application that extracts job
 ## Features  
 - **Automated job detail extraction** from a webpage  
 - **Skill matching** between job requirements and portfolio  
-- **AI-generated cold emails** personalized for each job  
-- **Customizable email templates** for different tones and styles  
+- **AI-generated cold emails** personalized for each job
 
 ## Installation  
 1. Clone the repository:  
