@@ -8,6 +8,9 @@ The **Cold Email Generator Tool** is an AI-powered application that extracts job
 - **Skill matching** between job requirements and portfolio  
 - **AI-generated cold emails** personalized for each job
 
+## Application
+![My Image](images/streamlit_app.png)
+
 ## Installation  
 1. Clone the repository:  
    ```sh
