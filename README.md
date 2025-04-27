@@ -11,9 +11,12 @@ The **Cold Email Generator Tool** is an AI-powered application that extracts job
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/cold-email-generator.git
+   git clone https://github.com/ashend99/cold-email-generator.git
 
-2. Run thw application
+2. Setup .env file
+   Create an .env file and include your `GROQ_API_KEY`.
+
+4. Run the application
    ```sh
    cd cold-email-generator
    python -m streamlit run main.py
